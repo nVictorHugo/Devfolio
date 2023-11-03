@@ -129,6 +129,20 @@ a:hover {
   vertical-align: middle;
 }
 
+.square {
+  width: 5em;
+  height: 5em;
+  border: 0.1em solid #1e1e1e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+.icon {
+  font-size: 4em;
+  color: white;
+}
+
 /*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
